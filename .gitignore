@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+
+# Node (if any worked examples use it)
+node_modules/
+
+# Keep generated charts OUT of gitignore so they can be submitted as evidence.
