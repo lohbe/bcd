@@ -12,9 +12,10 @@ This starts the lab container in a new podman pod.
 Forwards host port 3000 to the container
 
 # start memgraph DB
-podman run -dt --pod memgraph --rm --name memgraph-mage memgraph/memgraph-mage
+podman run -dt --pod memgraph --rm --name memgraph-mage memgraph/memgraph-mage --schema-info-enabled=True
 
 This starts the actual DB in the same pod (so 7687 and 7444 are not required to be exposed).
+--schema-info-enabled is required for LLMs to query the dataset structure.
 
 2. Running
 
