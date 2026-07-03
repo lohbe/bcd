@@ -28,3 +28,14 @@
 - **Facilitators:** managed to clear up my existing workspace prior evening to start fresh, and worked example was readily available in documentation
 - **Emotion (1-5):** 3
 - **Reflection:** slight anxiety and panic when the 10am deadline loomed, and i struggled to complete it. but sense of relief and accomplishment when i managed to meet the deadline with seconds to spare.
+
+## 2026-07-03 — Day 3
+
+- **First commit:** 11:38  | in 8–10am window: **no**
+- **Sprint completed:** yes | **Worked example:** yes
+- **BI techniques:** implementation-intentions,self-monitoring
+- **Cue:** morning coffee cue
+- **Barriers:** had to leave early for another appointment, so i needed to wake up much earlier, and complete the activity in 2 halves
+- **Facilitators:** I worked on the pre-requisites the day before, so i hit the ground running today.
+- **Emotion (1-5):** 3
+- **Reflection:** i realised that building a habit requires conscious effort to prioritise and make adjustments to other tasks (like waking up early and threading the activity into daily life).
