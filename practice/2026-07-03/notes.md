@@ -62,7 +62,59 @@ RETURN a
 
 Solution 2
 
+```cypher
+MATCH (a:Article)-[r:CONTAINS]->(t:Term)
+WHERE a.name = "Ireland"
+RETURN a.name, t.name, r.count
+```
 
+#	a.name	t.name	r.count	
+1	
+Ireland
+Ireland
+271
+2	
+Ireland
+/ˈaɪərlənd/
+2
+3	
+Ireland
+listen
+2
+4	
+Ireland
+Irish
+156
+5	
+Ireland
+Éire
+3
+
+(... many rows)
+
+```cypher
+MATCH (a:Article)-[r:CONTAINS]->(t:Term)
+WHERE a.name = "Ireland"
+RETURN COUNT(*);
+```
+
+3665 to be exact.
+
+Solution 3 is given, so I just modify it to search which categories a particular article is linked to:
+
+```cypher
+MATCH (c:Category)-[:PARENT_OF]->(a:Article {name:"Ireland"})
+RETURN c.name, count(a) AS article_count 
+ORDER BY article_count DESC 
+LIMIT 5;
+```
+#	c.name	article_count	
+1	
+Article Feedback Pilot
+1
+2	
+Divided regions
+1
 
 
 ## Reflection
