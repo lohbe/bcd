@@ -39,3 +39,14 @@
 - **Facilitators:** I worked on the pre-requisites the day before, so i hit the ground running today.
 - **Emotion (1-5):** 3
 - **Reflection:** i realised that building a habit requires conscious effort to prioritise and make adjustments to other tasks (like waking up early and threading the activity into daily life).
+
+## 2026-07-04 — Day 4
+
+- **First commit:** 09:25  | in 8–10am window: **yes**
+- **Sprint completed:** yes | **Worked example:** yes
+- **BI techniques:** implementation-intentions,self-monitoring
+- **Cue:** morning coffee cue
+- **Barriers:** not much friction today
+- **Facilitators:** today's practice was on my mind in the morning even before morning coffee
+- **Emotion (1-5):** 4
+- **Reflection:** getting into the practice took much less effort today. no distractions helped, possibly because weekend has arrived.
