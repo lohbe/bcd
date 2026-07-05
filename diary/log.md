@@ -50,3 +50,14 @@
 - **Facilitators:** today's practice was on my mind in the morning even before morning coffee
 - **Emotion (1-5):** 4
 - **Reflection:** getting into the practice took much less effort today. no distractions helped, possibly because weekend has arrived.
+
+## 2026-07-05 — Day 5
+
+- **First commit:** 07:45  | in 8–10am window: **no**
+- **Sprint completed:** yes | **Worked example:** no
+- **BI techniques:** implementation-intentions,self-monitoring
+- **Cue:** morning coffee cue
+- **Barriers:** today's schedule was too packed to complete the worked example, a substitute was used
+- **Facilitators:** luckily an article on graph databases appeared and I watched the recording
+- **Emotion (1-5):** 3
+- **Reflection:** i feel somewhat relieved that i could at least keep up the habit even though i may not be able to finish the task
