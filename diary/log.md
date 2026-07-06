@@ -61,3 +61,14 @@
 - **Facilitators:** luckily an article on graph databases appeared and I watched the recording
 - **Emotion (1-5):** 3
 - **Reflection:** i feel somewhat relieved that i could at least keep up the habit even though i may not be able to finish the task
+
+## 2026-07-06 — Day 6
+
+- **First commit:** 09:59  | in 8–10am window: **yes**
+- **Sprint completed:** yes | **Worked example:** yes
+- **BI techniques:** implementation-intentions,self-monitoring
+- **Cue:** morning coffee cue
+- **Barriers:** None
+- **Facilitators:** Woke up refreshed to do the exercises
+- **Emotion (1-5):** 3
+- **Reflection:** After a good night's rest it was easier to get started on the coding practice. Exercises were of suitable difficulty, so motivation was sustained throughout the session.
