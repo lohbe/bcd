@@ -72,3 +72,14 @@
 - **Facilitators:** Woke up refreshed to do the exercises
 - **Emotion (1-5):** 3
 - **Reflection:** After a good night's rest it was easier to get started on the coding practice. Exercises were of suitable difficulty, so motivation was sustained throughout the session.
+
+## 2026-07-07 — Day 7
+
+- **First commit:** 09:28  | in 8–10am window: **yes**
+- **Sprint completed:** yes | **Worked example:** yes
+- **BI techniques:** implementation-intentions,self-monitoring
+- **Cue:** morning coffee cue
+- **Barriers:** —
+- **Facilitators:** keeping some link between the preceding day and current day activity makes it quicker to get started.
+- **Emotion (1-5):** 3
+- **Reflection:** some continuation between the daily practice makes it quicker to get started as there is some anchor and context already set. It also helps recall the preceding day's activities to strengthen the concepts.
