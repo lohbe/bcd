@@ -83,3 +83,14 @@
 - **Facilitators:** keeping some link between the preceding day and current day activity makes it quicker to get started.
 - **Emotion (1-5):** 3
 - **Reflection:** some continuation between the daily practice makes it quicker to get started as there is some anchor and context already set. It also helps recall the preceding day's activities to strengthen the concepts.
+
+## 2026-07-08 — Day 8
+
+- **First commit:** 08:57  | in 8–10am window: **yes**
+- **Sprint completed:** yes | **Worked example:** yes
+- **BI techniques:** implementation-intentions,self-monitoring
+- **Cue:** morning coffee cue
+- **Barriers:** —
+- **Facilitators:** beginning to feel routine already, especially after the coffee
+- **Emotion (1-5):** 3
+- **Reflection:** it feels more liberating when the task is flexible, but the routine is fixed. today's example was adjacent to normal worked examples, so i didn't need to spend extra time outside the sprint window.
