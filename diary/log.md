@@ -105,3 +105,14 @@
 - **Facilitators:** there was free time in the morning to complete the worked examples
 - **Emotion (1-5):** 4
 - **Reflection:** Having an empty schedule helps with learning, because I won't feel pressured to complete the tasks and at the same time, I can properly deploy attention to the worked examples.
+
+## 2026-07-10 — Day 10
+
+- **First commit:** 07:44  | in 8–10am window: **no**
+- **Sprint completed:** yes | **Worked example:** yes
+- **BI techniques:** implementation-intentions,self-monitoring
+- **Cue:** early overlapping event
+- **Barriers:** lack of time, due to a work appointment clashing in the morning
+- **Facilitators:** i can use the contents of the work appointment as practice
+- **Emotion (1-5):** 4
+- **Reflection:** I managed to maintain practice even when time was limited, by adjusting the contents of the worked examples. The habit was prioritised and maintained.
