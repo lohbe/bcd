@@ -94,3 +94,14 @@
 - **Facilitators:** beginning to feel routine already, especially after the coffee
 - **Emotion (1-5):** 3
 - **Reflection:** it feels more liberating when the task is flexible, but the routine is fixed. today's example was adjacent to normal worked examples, so i didn't need to spend extra time outside the sprint window.
+
+## 2026-07-09 — Day 9
+
+- **First commit:** 09:05  | in 8–10am window: **yes**
+- **Sprint completed:** yes | **Worked example:** yes
+- **BI techniques:** implementation-intentions,self-monitoring
+- **Cue:** morning coffee cue
+- **Barriers:** —
+- **Facilitators:** there was free time in the morning to complete the worked examples
+- **Emotion (1-5):** 4
+- **Reflection:** Having an empty schedule helps with learning, because I won't feel pressured to complete the tasks and at the same time, I can properly deploy attention to the worked examples.
