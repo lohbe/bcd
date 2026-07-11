@@ -116,3 +116,14 @@
 - **Facilitators:** i can use the contents of the work appointment as practice
 - **Emotion (1-5):** 4
 - **Reflection:** I managed to maintain practice even when time was limited, by adjusting the contents of the worked examples. The habit was prioritised and maintained.
+
+## 2026-07-11 — Day 11
+
+- **First commit:** 08:53  | in 8–10am window: **yes**
+- **Sprint completed:** yes | **Worked example:** yes
+- **BI techniques:** implementation-intentions,self-monitoring
+- **Cue:** morning coffee cue
+- **Barriers:** finding a new topic, since the graph topic I felt was a bit boring today
+- **Facilitators:** i was curious about other topics so finding an alternate topic was quite simple.
+- **Emotion (1-5):** 3
+- **Reflection:** being flexible about the way habits are performed can help maintain the practice. curiosity helps too.
