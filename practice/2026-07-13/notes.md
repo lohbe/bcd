@@ -131,6 +131,32 @@ Trade policy analysis
 Identifying countries vulnerable to trade disruptions
 Economic resilience planning
 
+The above is wrong too, only Qwen3.7-max could solve it:
+
+// Step 1: Find countries with high import concentration
+MATCH (importer:Country)<-[r:IMPORTS]-(supplier:Country)
+WITH importer, supplier, r.amount AS import_amount, importer.total_import_amount AS total_imports
+WHERE total_imports > 0
+WITH importer,
+     collect({supplier: supplier.name, amount: import_amount}) AS import_sources,
+     total_imports,
+     importer.total_export_amount AS total_exports,
+     importer.name AS importer_name,
+     max(import_amount) AS max_import_from_single_source,
+     count(supplier) AS num_suppliers
+// Step 2: Filter for high dependency (>30% from single source) AND significant exporter
+WHERE (max_import_from_single_source / total_imports) > 0.3
+  AND total_exports > 100000
+// Step 3: Calculate dependency ratio and rank
+RETURN importer_name AS country,
+       total_exports AS export_volume,
+       total_imports AS import_volume,
+       max_import_from_single_source AS largest_import_source_amount,
+       round((max_import_from_single_source / total_imports) * 10000) / 100.0 AS dependency_percentage,
+       num_suppliers AS total_suppliers,
+       round(total_exports / total_imports * 100) / 100.0 AS export_import_ratio
+ORDER BY dependency_percentage DESC, export_volume DESC
+LIMIT 15
 
 ## Reflection
 <!-- What did you learn? What was hard? -->
