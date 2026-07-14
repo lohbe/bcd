@@ -149,3 +149,14 @@
 - **Facilitators:** had ample time today to complete the worked examples.
 - **Emotion (1-5):** 3
 - **Reflection:** The cypher queries produced by Qwen3 27B is sometimes wrong, especially for the more complex ones. So in future, I'd need to upgrade to a more capable model for complex worked examples.
+
+## 2026-07-14 — Day 14
+
+- **First commit:** 08:26  | in 8–10am window: **yes**
+- **Sprint completed:** yes | **Worked example:** yes
+- **BI techniques:** implementation-intentions,self-monitoring
+- **Cue:** morning coffee cue
+- **Barriers:** couldn't think of a topic to learn this morning
+- **Facilitators:** i recalled that visualisation was a challenge during my technical assignment for neo4j
+- **Emotion (1-5):** 2
+- **Reflection:** there was a bit of time pressure due to having to go for class today at 9am, plus i didn't have a ready topic to work on. but i recalled that graph visualisation was something i had to pick up, hence leading to today's topic.
