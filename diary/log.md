@@ -160,3 +160,14 @@
 - **Facilitators:** i recalled that visualisation was a challenge during my technical assignment for neo4j
 - **Emotion (1-5):** 2
 - **Reflection:** there was a bit of time pressure due to having to go for class today at 9am, plus i didn't have a ready topic to work on. but i recalled that graph visualisation was something i had to pick up, hence leading to today's topic.
+
+## 2026-07-15 — Day 15
+
+- **First commit:** 11:44  | in 8–10am window: **no**
+- **Sprint completed:** yes | **Worked example:** yes
+- **BI techniques:** implementation-intentions,self-monitoring
+- **Cue:** morning coffee cue
+- **Barriers:** woke up much later due to watching FIFA WC2026 the night before, so it was tiring.
+- **Facilitators:** i used a different technique to be productive and motivating (using current software at work - neo4j desktop - with new worked example via LLM)
+- **Emotion (1-5):** 3
+- **Reflection:** i realised from course trainer feedback that i'm actually "habit hacking", because i'm very focused on trigger-routine-reward. that tracks well with what i'm doing.
