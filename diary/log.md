@@ -171,3 +171,14 @@
 - **Facilitators:** i used a different technique to be productive and motivating (using current software at work - neo4j desktop - with new worked example via LLM)
 - **Emotion (1-5):** 3
 - **Reflection:** i realised from course trainer feedback that i'm actually "habit hacking", because i'm very focused on trigger-routine-reward. that tracks well with what i'm doing.
+
+## 2026-07-16 — Day 16
+
+- **First commit:** 10:46  | in 8–10am window: **no**
+- **Sprint completed:** yes | **Worked example:** yes
+- **BI techniques:** implementation-intentions,self-monitoring
+- **Cue:** morning coffee cue
+- **Barriers:** woke up late again due to FIFA 2026. felt a bit sluggish
+- **Facilitators:** an idea that i could automate a common tool led to me finishing the task and applying it in real-life
+- **Emotion (1-5):** 3
+- **Reflection:** on days that are less motivating, it is useful to keep the task small, and keep motivation high - in this case, automating a common tool led to productivity benefits on top of learning programming.
