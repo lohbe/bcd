@@ -182,3 +182,14 @@
 - **Facilitators:** an idea that i could automate a common tool led to me finishing the task and applying it in real-life
 - **Emotion (1-5):** 3
 - **Reflection:** on days that are less motivating, it is useful to keep the task small, and keep motivation high - in this case, automating a common tool led to productivity benefits on top of learning programming.
+
+## 2026-07-17 — Day 17
+
+- **First commit:** 09:42  | in 8–10am window: **yes**
+- **Sprint completed:** yes | **Worked example:** yes
+- **BI techniques:** implementation-intentions,self-monitoring
+- **Cue:** morning coffee cue
+- **Barriers:** today's session was almost like a full project, had to break it up into planning and execution.
+- **Facilitators:** after breaking it up into planning and execution, i can continue the work after the 10am window
+- **Emotion (1-5):** 3
+- **Reflection:** some real-world projects are motivating enough for me to attempt, but i have to structure it to fit into the shape of the goal.
