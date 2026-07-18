@@ -193,3 +193,14 @@
 - **Facilitators:** after breaking it up into planning and execution, i can continue the work after the 10am window
 - **Emotion (1-5):** 3
 - **Reflection:** some real-world projects are motivating enough for me to attempt, but i have to structure it to fit into the shape of the goal.
+
+## 2026-07-18 — Day 18
+
+- **First commit:** 09:49  | in 8–10am window: **yes**
+- **Sprint completed:** yes | **Worked example:** yes
+- **BI techniques:** implementation-intentions,self-monitoring
+- **Cue:** morning coffee cue
+- **Barriers:** had difficulty coming up with a relevant topic to practice, residual effects of disrupted sleeping
+- **Facilitators:** i could quickly think and pivot and have LLM assist me in developing worked examples
+- **Emotion (1-5):** 3
+- **Reflection:** i realise that the worked examples i choose, are closely related to my day-to-day activities, and slightly beyond my comfort zone.
