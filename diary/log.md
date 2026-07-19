@@ -204,3 +204,14 @@
 - **Facilitators:** i could quickly think and pivot and have LLM assist me in developing worked examples
 - **Emotion (1-5):** 3
 - **Reflection:** i realise that the worked examples i choose, are closely related to my day-to-day activities, and slightly beyond my comfort zone.
+
+## 2026-07-19 — Day 19
+
+- **First commit:** 08:56  | in 8–10am window: **yes**
+- **Sprint completed:** yes | **Worked example:** no
+- **BI techniques:** implementation-intentions,self-monitoring
+- **Cue:** morning routine, prior to coffee
+- **Barriers:** had a weekend breakfast appointment conflict
+- **Facilitators:** —
+- **Emotion (1-5):** 3
+- **Reflection:** no worked examples done today, instead I used the time to explore areas for future practice.
