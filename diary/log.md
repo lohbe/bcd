@@ -215,3 +215,14 @@
 - **Facilitators:** —
 - **Emotion (1-5):** 3
 - **Reflection:** no worked examples done today, instead I used the time to explore areas for future practice.
+
+## 2026-07-20 — Day 20
+
+- **First commit:** 10:51  | in 8–10am window: **no**
+- **Sprint completed:** yes | **Worked example:** yes
+- **BI techniques:** implementation-intentions,self-monitoring
+- **Cue:** morning coffee cue
+- **Barriers:** today's example was rather complex so a lot of time was needed to scaffold and complete the examples
+- **Facilitators:** the worked examples are very relevant to my line of work
+- **Emotion (1-5):** 2
+- **Reflection:** this exercise was motivated by my own job search, and the items practiced were common pre-requisite. so it is highly motivating to study it in depth, not just practicing for skill.
