@@ -226,3 +226,14 @@
 - **Facilitators:** the worked examples are very relevant to my line of work
 - **Emotion (1-5):** 2
 - **Reflection:** this exercise was motivated by my own job search, and the items practiced were common pre-requisite. so it is highly motivating to study it in depth, not just practicing for skill.
+
+## 2026-07-21 — Day 21
+
+- **First commit:** 10:08  | in 8–10am window: **no**
+- **Sprint completed:** yes | **Worked example:** yes
+- **BI techniques:** implementation-intentions,self-monitoring
+- **Cue:** morning coffee cue
+- **Barriers:** the setup of some worked examples can be complex and take up significant time
+- **Facilitators:** having flexible resources to navigate difficult scenarios - e.g. more time, using different tools, etc.
+- **Emotion (1-5):** 2
+- **Reflection:** the more relevant or real-world examples used, the more complex the environment where the worked examples are practiced. this increases the difficulty levels, but also becomes more relevant - so a balance must be struck.
