@@ -237,3 +237,14 @@
 - **Facilitators:** having flexible resources to navigate difficult scenarios - e.g. more time, using different tools, etc.
 - **Emotion (1-5):** 2
 - **Reflection:** the more relevant or real-world examples used, the more complex the environment where the worked examples are practiced. this increases the difficulty levels, but also becomes more relevant - so a balance must be struck.
+
+## 2026-07-22 — Day 22
+
+- **First commit:** 09:55  | in 8–10am window: **yes**
+- **Sprint completed:** yes | **Worked example:** yes
+- **BI techniques:** implementation-intentions,self-monitoring
+- **Cue:** morning coffee cue
+- **Barriers:** bugs and other errors with software
+- **Facilitators:** swapping to other software is quick
+- **Emotion (1-5):** 3
+- **Reflection:** swapping of software to maintain momentum in practice is quite key, as quality of free software packages varies. so flexibility in my approach is needed - and this flexibility is also a good habit to have in real life.
