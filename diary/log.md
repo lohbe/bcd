@@ -270,3 +270,14 @@
 - **Facilitators:** spontaneous idea appeared during morning coffee, idea was easy to implement
 - **Emotion (1-5):** 4
 - **Reflection:** still in the theme of keeping things flexible, there are plenty of coding opportunities of varying complexity. today's was relatively simple, and provided a boost in motivation
+
+## 2026-07-25 — Day 25
+
+- **First commit:** 09:59  | in 8–10am window: **yes**
+- **Sprint completed:** yes | **Worked example:** yes
+- **BI techniques:** implementation-intentions,self-monitoring
+- **Cue:** morning coffee cue
+- **Barriers:** —
+- **Facilitators:** can return to previous topics to strengthen practice
+- **Emotion (1-5):** 3
+- **Reflection:** returning to previous topics mean revisiting code that worked before, but stopped working. so this tests a different aspect of coding, the temporal aspect.
