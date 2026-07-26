@@ -281,3 +281,14 @@
 - **Facilitators:** can return to previous topics to strengthen practice
 - **Emotion (1-5):** 3
 - **Reflection:** returning to previous topics mean revisiting code that worked before, but stopped working. so this tests a different aspect of coding, the temporal aspect.
+
+## 2026-07-26 — Day 26
+
+- **First commit:** 09:51  | in 8–10am window: **yes**
+- **Sprint completed:** yes | **Worked example:** yes
+- **BI techniques:** implementation-intentions,self-monitoring
+- **Cue:** looking at the clock
+- **Barriers:** woke up too early today, so i was distracted by other things until i saw the clock
+- **Facilitators:** my daily routine supported a gap to perform learning.
+- **Emotion (1-5):** 3
+- **Reflection:** it was a short worked exercise that i nearly forgot, but i think that intuitively without triggers, i could still recall that i needed to complete my worked examples.
