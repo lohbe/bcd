@@ -292,3 +292,14 @@
 - **Facilitators:** my daily routine supported a gap to perform learning.
 - **Emotion (1-5):** 3
 - **Reflection:** it was a short worked exercise that i nearly forgot, but i think that intuitively without triggers, i could still recall that i needed to complete my worked examples.
+
+## 2026-07-27 — Day 27
+
+- **First commit:** 10:06  | in 8–10am window: **no**
+- **Sprint completed:** yes | **Worked example:** no
+- **BI techniques:** implementation-intentions,self-monitoring
+- **Cue:** morning coffee cue
+- **Barriers:** late to practice today
+- **Facilitators:** the usual real-world ideas come to mind quickly
+- **Emotion (1-5):** 3
+- **Reflection:** i may need to evolve my practice from worked examples, to real-world tooling - or at least include as part of my daily practice.
