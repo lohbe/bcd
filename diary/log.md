@@ -303,3 +303,14 @@
 - **Facilitators:** the usual real-world ideas come to mind quickly
 - **Emotion (1-5):** 3
 - **Reflection:** i may need to evolve my practice from worked examples, to real-world tooling - or at least include as part of my daily practice.
+
+## 2026-07-28 — Day 28
+
+- **First commit:** 09:03  | in 8–10am window: **yes**
+- **Sprint completed:** no | **Worked example:** no
+- **BI techniques:** implementation-intentions,self-monitoring
+- **Cue:** morning coffee cue
+- **Barriers:** —
+- **Facilitators:** —
+- **Emotion (1-5):** 3
+- **Reflection:** taking a break from exercises to see how i feel about not doing them for a day. there's a sense of relief, and a sense that my streak is breaking too - a sort of anxiety/guilt.
