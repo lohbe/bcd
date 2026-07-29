@@ -314,3 +314,14 @@
 - **Facilitators:** —
 - **Emotion (1-5):** 3
 - **Reflection:** taking a break from exercises to see how i feel about not doing them for a day. there's a sense of relief, and a sense that my streak is breaking too - a sort of anxiety/guilt.
+
+## 2026-07-29 — Day 29
+
+- **First commit:** 09:39  | in 8–10am window: **yes**
+- **Sprint completed:** yes | **Worked example:** yes
+- **BI techniques:** implementation-intentions,self-monitoring
+- **Cue:** morning coffee cue
+- **Barriers:** had some distractions in the morning affecting concentration
+- **Facilitators:** previous work carried forward help me set the context quickly
+- **Emotion (1-5):** 2
+- **Reflection:** unexpected events crop up, so there was a struggle how to complete the practice effectively.
