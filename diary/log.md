@@ -325,3 +325,14 @@
 - **Facilitators:** previous work carried forward help me set the context quickly
 - **Emotion (1-5):** 2
 - **Reflection:** unexpected events crop up, so there was a struggle how to complete the practice effectively.
+
+## 2026-07-30 — Day 30
+
+- **First commit:** 10:13  | in 8–10am window: **no**
+- **Sprint completed:** yes | **Worked example:** yes
+- **BI techniques:** implementation-intentions,self-monitoring
+- **Cue:** morning coffee cue
+- **Barriers:** woke up late, difficult subject
+- **Facilitators:** using llm for quick scaffolding of learning material
+- **Emotion (1-5):** 3
+- **Reflection:** again, real-world topics are highly motivating and relevant, but at the same time, very complex to setup and understand in the limited time.
