@@ -369,3 +369,14 @@
 - **Facilitators:** —
 - **Emotion (1-5):** 2
 - **Reflection:** today's topic was an extension of yesterday's but the cognitive debt accumulated from previous day. need to select a different topic if this difficulty persists.
+
+## 2026-08-03 — Day 34
+
+- **First commit:** —  | in 8–10am window: **?**
+- **Sprint completed:** no | **Worked example:** no
+- **BI techniques:** implementation-intentions,self-monitoring
+- **Cue:** morning coffee cue
+- **Barriers:** missed practice due to travel
+- **Facilitators:** —
+- **Emotion (1-5):** 3
+- **Reflection:** first time missing a practice completely. feels a little awkward.
