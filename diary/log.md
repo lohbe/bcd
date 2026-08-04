@@ -380,3 +380,14 @@
 - **Facilitators:** —
 - **Emotion (1-5):** 3
 - **Reflection:** first time missing a practice completely. feels a little awkward.
+
+## 2026-08-04 — Day 35
+
+- **First commit:** 09:52  | in 8–10am window: **yes**
+- **Sprint completed:** yes | **Worked example:** yes
+- **BI techniques:** implementation-intentions,self-monitoring
+- **Cue:** morning coffee cue
+- **Barriers:** difficult topic
+- **Facilitators:** use of LLMs to help refine understanding
+- **Emotion (1-5):** 3
+- **Reflection:** need continuity from previous day's topic because it is really quite hard to grasp the terms and processes involved.
